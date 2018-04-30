@@ -19,5 +19,5 @@ class Dog
 end
 
 hehe = Dog.new
-hehe = "qwq"
+hehe.name = "qwq"
 Dog.bark
