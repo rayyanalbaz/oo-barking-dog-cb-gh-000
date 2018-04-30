@@ -19,3 +19,4 @@ class Dog
 end
 
 hehe = Dog.new
+hehe = "qwq"
