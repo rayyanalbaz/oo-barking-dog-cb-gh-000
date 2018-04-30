@@ -20,3 +20,4 @@ end
 
 hehe = Dog.new
 hehe = "qwq"
+Dog.bark
