@@ -17,7 +17,3 @@ class Dog
     puts "woof!"
   end
 end
-
-hehe = Dog.new
-hehe.name = "qwq"
-Dog.bark
