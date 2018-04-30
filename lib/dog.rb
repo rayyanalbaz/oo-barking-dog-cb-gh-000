@@ -17,3 +17,5 @@ class Dog
     puts "woof!"
   end
 end
+
+hehe = Dog.new
